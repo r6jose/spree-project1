@@ -90,7 +90,7 @@ GIT
 
 GIT
   remote: https://github.com/spree/spree_rails_frontend.git
-  revision: 96857bb4b605b143f3e59fa3ac37430c1104f1f2
+  revision: 63300a7f04af1e345090a7037fd0a36526bba815
   branch: main
   specs:
     spree_frontend (4.7.0)
